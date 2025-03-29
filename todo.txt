@@ -1,0 +1,5 @@
+✅ Learn how to create a repository  
+✅ Create a Hello World program  
+🔲 Create a new file on GitHub  
+🔲 Edit a file and commit changes  
+🔲 Explore GitHub Issues and Pull Requests  
