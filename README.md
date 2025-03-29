@@ -15,4 +15,7 @@ Welcome to my first GitHub repository! 🎉
 
 ---
 
-Thanks for checking out my project! 😊  
+Thanks for checking out my project! 😊
+## 🔥 About This Branch  
+This is an experimental branch to learn how GitHub branches work. 🚀
+
